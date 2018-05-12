@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37500
     wikipedia: http://en.wikipedia.org/wiki/Alessandro_Manzoni
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45334#I-promessi-sposiOpere-di-Alessando-Manzoni-vol.-1
 gutenberg_bookshelf: IT Romanzi storici
 gutenberg_issued: '2014-04-06'
 gutenberg_type: Text
