@@ -1,0 +1,31 @@
+_repo: I-promessi-sposiOpere-di-Alessando-Manzoni-vol.-1_45334
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45334-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Manzoni, Alessandro
+    birthdate: 1785
+    deathdate: 1873
+    gutenberg_agent_id: '37500'
+    url: http://www.gutenberg.org/2009/agents/37500
+    wikipedia: http://en.wikipedia.org/wiki/Alessandro_Manzoni
+description: ''
+gutenberg_bookshelf: IT Romanzi storici
+gutenberg_issued: '2014-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45334'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Milan (Italy) -- Fiction'
+- !lcsh 'Italy -- History -- 1559-1789 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Historical fiction'
+- !lcsh 'Plague -- Fiction'
+title: I promessi sposi. Opere di Alessando Manzoni, vol. 1
+url: http://www.gutenberg.org/ebooks/45334
